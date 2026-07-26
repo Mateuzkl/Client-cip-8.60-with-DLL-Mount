@@ -20,10 +20,14 @@ An updated CipSoft 8.60 client with:
 The patcher:
 
 - configures the server address;
+- optionally enables Multi-client Hack, Light Hack, and X-Ray;
 - generates a unique HMAC key;
 - updates the DLL integrity signature;
 - creates backups of the original EXE and DLL;
 - copies the required `config.lua` line to the clipboard.
+
+The optional client patches are disabled by default. Select only the ones you
+want before patching the client.
 
 ## Server setup
 
